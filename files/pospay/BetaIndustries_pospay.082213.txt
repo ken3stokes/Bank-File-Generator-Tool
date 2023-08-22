@@ -1,0 +1,6 @@
+Payee,CheckNumber,CheckDate
+Jane Smith,10000,2023-08-22
+John Doe,10001,2023-08-22
+Tech Solutions,10002,2023-08-22
+Acme Corp.,10003,2023-08-22
+Acme Corp.,10004,2023-08-22

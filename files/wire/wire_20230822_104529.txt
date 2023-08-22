@@ -1,0 +1,12 @@
+Wire File Header
+Transaction 1: $498
+Transaction 2: $4292
+Transaction 3: $2222
+Transaction 4: $7610
+Transaction 5: $4790
+Transaction 6: $4672
+Transaction 7: $6391
+Transaction 8: $4349
+Transaction 9: $9318
+Transaction 10: $4418
+Wire File Footer
