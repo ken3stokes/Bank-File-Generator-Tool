@@ -1,6 +1,0 @@
-Payee,CheckNumber,CheckDate
-Global Industries,10000,2023-08-22
-John Doe,10001,2023-08-22
-Acme Corp.,10002,2023-08-22
-Jane Smith,10003,2023-08-22
-John Doe,10004,2023-08-22
